@@ -21,7 +21,7 @@ To run this project, you need to have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/job-portal-backend.git
+git clone https://github.com/NarjeeshTP/job-portal-backend.git
 cd job-portal-backend
 ```
 
@@ -79,11 +79,4 @@ Feel free to fork this repository and submit pull requests for any improvements 
 ## License
 
 This project is open-source and available under the MIT License.
-```
 
-### Instructions to Use the README
-
-1. Replace `your-username` in the clone URL with your actual GitHub username.
-2. Make sure to update any specific details relevant to your project, such as the database structure or additional features, as you see fit.
-
-This README will help users understand your project and how to get started with it easily!
